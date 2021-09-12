@@ -1,0 +1,418 @@
+\contentsline {section}{\numberline {1}Propositional Logic}{11}{}%
+\contentsline {subsection}{\numberline {1.1}Basic Concepts}{11}{}%
+\contentsline {subsubsection}{\numberline {1.1.1}Proposition}{11}{}%
+\contentsline {subsubsection}{\numberline {1.1.2}Logical Connectives}{11}{}%
+\contentsline {subsubsection}{\numberline {1.1.3}Truth Tables}{11}{}%
+\contentsline {subsubsection}{\numberline {1.1.4}Terminology}{12}{}%
+\contentsline {subsection}{\numberline {1.2}Logical Equivalences}{12}{}%
+\contentsline {subsubsection}{\numberline {1.2.1}Definition}{12}{}%
+\contentsline {subsubsection}{\numberline {1.2.2}Common Mistake}{12}{}%
+\contentsline {subsubsection}{\numberline {1.2.3}Tables of Equivalences}{12}{}%
+\contentsline {subsection}{\numberline {1.3}Morgan's Law}{13}{}%
+\contentsline {subsubsection}{\numberline {1.3.1}Definition}{13}{}%
+\contentsline {subsubsection}{\numberline {1.3.2}Proof}{13}{}%
+\contentsline {subsection}{\numberline {1.4}Normal Forms}{13}{}%
+\contentsline {subsubsection}{\numberline {1.4.1}Disjunctive Normal Form (DNF)}{13}{}%
+\contentsline {subsubsection}{\numberline {1.4.2}Conjunctive Normal Form (CNF)}{13}{}%
+\contentsline {subsection}{\numberline {1.5}Universal and Existential Quantifiers}{13}{}%
+\contentsline {subsubsection}{\numberline {1.5.1}Variables}{13}{}%
+\contentsline {subsubsection}{\numberline {1.5.2}Predicates}{13}{}%
+\contentsline {subsubsection}{\numberline {1.5.3}Predicates and Propositional Logic}{14}{}%
+\contentsline {subsubsection}{\numberline {1.5.4}Propositional Functions}{14}{}%
+\contentsline {subsubsection}{\numberline {1.5.5}Universal Quantifier}{14}{}%
+\contentsline {subsubsection}{\numberline {1.5.6}Existential Quantifier}{14}{}%
+\contentsline {subsection}{\numberline {1.6}Validity and Satisfiability}{14}{}%
+\contentsline {subsubsection}{\numberline {1.6.1}Statement Valid}{14}{}%
+\contentsline {subsubsection}{\numberline {1.6.2}Statement Satisfiable}{14}{}%
+\contentsline {subsection}{\numberline {1.7}The Morgan's Law for Quantifiers}{14}{}%
+\contentsline {subsection}{\numberline {1.8}Visualization of Quantifiers}{15}{}%
+\contentsline {subsection}{\numberline {1.9}Proofs}{15}{}%
+\contentsline {subsubsection}{\numberline {1.9.1}Argument}{15}{}%
+\contentsline {subsubsection}{\numberline {1.9.2}Inference Rules}{15}{}%
+\contentsline {subsubsection}{\numberline {1.9.3}Inference Rules with Quantifiers}{16}{}%
+\contentsline {subsubsection}{\numberline {1.9.4}Type of Proofs}{16}{}%
+\contentsline {section}{\numberline {2}Basic Structures: Sets, Functions, Sequences and Sums}{17}{}%
+\contentsline {subsection}{\numberline {2.1}Basics of Sets}{17}{}%
+\contentsline {subsubsection}{\numberline {2.1.1}Definition}{17}{}%
+\contentsline {subsubsection}{\numberline {2.1.2}Set Equality}{17}{}%
+\contentsline {subsubsection}{\numberline {2.1.3}Subset}{17}{}%
+\contentsline {subsubsection}{\numberline {2.1.4}Proper Subset}{17}{}%
+\contentsline {subsubsection}{\numberline {2.1.5}Power Set}{17}{}%
+\contentsline {subsubsection}{\numberline {2.1.6}Tuples and Equality of Tuples}{17}{}%
+\contentsline {subsubsection}{\numberline {2.1.7}Cartesian Product}{18}{}%
+\contentsline {subsubsection}{\numberline {2.1.8}Generalization of the Cartesian Product}{18}{}%
+\contentsline {subsubsection}{\numberline {2.1.9}Cardinality of Set}{18}{}%
+\contentsline {subsection}{\numberline {2.2}Set Operations}{18}{}%
+\contentsline {subsubsection}{\numberline {2.2.1}Union}{18}{}%
+\contentsline {subsubsection}{\numberline {2.2.2}Intersection}{18}{}%
+\contentsline {subsubsection}{\numberline {2.2.3}Complement}{19}{}%
+\contentsline {subsubsection}{\numberline {2.2.4}Symmetric Difference}{19}{}%
+\contentsline {subsubsection}{\numberline {2.2.5}Inclusion-Exclusion Principle}{19}{}%
+\contentsline {subsubsection}{\numberline {2.2.6}Set Identities (Morgan's Law revisited)}{19}{}%
+\contentsline {subsection}{\numberline {2.3}Basics of Functions}{20}{}%
+\contentsline {subsubsection}{\numberline {2.3.1}Definition}{20}{}%
+\contentsline {subsubsection}{\numberline {2.3.2}Injection of a function}{20}{}%
+\contentsline {subsubsection}{\numberline {2.3.3}Surjection of a function}{20}{}%
+\contentsline {subsubsection}{\numberline {2.3.4}Bijection of a function}{20}{}%
+\contentsline {subsubsection}{\numberline {2.3.5}Partial Function}{20}{}%
+\contentsline {subsection}{\numberline {2.4}Relations}{20}{}%
+\contentsline {subsubsection}{\numberline {2.4.1}Binary Relation}{20}{}%
+\contentsline {subsubsection}{\numberline {2.4.2}Relations and Functions}{21}{}%
+\contentsline {subsubsection}{\numberline {2.4.3}Composition of Relations}{21}{}%
+\contentsline {subsubsection}{\numberline {2.4.4}Binary Relation on a Set}{21}{}%
+\contentsline {subsubsection}{\numberline {2.4.5}Equivalence Relation}{22}{}%
+\contentsline {subsubsection}{\numberline {2.4.6}Number of relation in a set}{22}{}%
+\contentsline {subsection}{\numberline {2.5}Equivalence Classes}{23}{}%
+\contentsline {subsubsection}{\numberline {2.5.1}Definition}{23}{}%
+\contentsline {subsubsection}{\numberline {2.5.2}Example of Equivalence class}{23}{}%
+\contentsline {subsection}{\numberline {2.6}Equivalence Classes and Partitions}{23}{}%
+\contentsline {subsubsection}{\numberline {2.6.1}Equivalences with Equivalence Classes}{23}{}%
+\contentsline {subsubsection}{\numberline {2.6.2}Partition of a Set}{23}{}%
+\contentsline {subsubsection}{\numberline {2.6.3}Theorem between Equivalence Classes and Partitions}{24}{}%
+\contentsline {subsubsection}{\numberline {2.6.4}Partial Ordering}{24}{}%
+\contentsline {subsubsection}{\numberline {2.6.5}Lattice}{24}{}%
+\contentsline {subsubsection}{\numberline {2.6.6}Partial Ordering on Cartesian Product}{25}{}%
+\contentsline {subsubsection}{\numberline {2.6.7}Hasse Diagrams}{25}{}%
+\contentsline {subsubsection}{\numberline {2.6.8}Comparability}{26}{}%
+\contentsline {subsection}{\numberline {2.7}Sequences}{26}{}%
+\contentsline {subsubsection}{\numberline {2.7.1}Definition}{26}{}%
+\contentsline {subsubsection}{\numberline {2.7.2}Recurrence Relation}{27}{}%
+\contentsline {subsection}{\numberline {2.8}Summations}{27}{}%
+\contentsline {subsubsection}{\numberline {2.8.1}Summation Notation}{27}{}%
+\contentsline {subsubsection}{\numberline {2.8.2}Geometrical Series}{27}{}%
+\contentsline {subsection}{\numberline {2.9}Cardinality with Sets}{27}{}%
+\contentsline {subsubsection}{\numberline {2.9.1}Equal Cardinality}{27}{}%
+\contentsline {subsubsection}{\numberline {2.9.2}Countable Sets}{28}{}%
+\contentsline {subsubsection}{\numberline {2.9.3}Infinite Countable Sets}{28}{}%
+\contentsline {subsubsection}{\numberline {2.9.4}The set of Integers is Countable}{28}{}%
+\contentsline {subsubsection}{\numberline {2.9.5}The Set of Rational Numbers is Countable}{28}{}%
+\contentsline {subsubsection}{\numberline {2.9.6}The Set of Real Numbers is Uncountable}{29}{}%
+\contentsline {section}{\numberline {3}Algorithms}{30}{}%
+\contentsline {subsection}{\numberline {3.1}Introduction and Examples}{30}{}%
+\contentsline {subsubsection}{\numberline {3.1.1}Definition}{30}{}%
+\contentsline {subsubsection}{\numberline {3.1.2}Binary Search}{30}{}%
+\contentsline {subsubsection}{\numberline {3.1.3}Insertion Sort}{30}{}%
+\contentsline {subsubsection}{\numberline {3.1.4}Greedy Algorithm}{31}{}%
+\contentsline {subsection}{\numberline {3.2}Matching}{31}{}%
+\contentsline {subsubsection}{\numberline {3.2.1}Definition}{31}{}%
+\contentsline {subsubsection}{\numberline {3.2.2}Maximum Matching}{31}{}%
+\contentsline {subsubsection}{\numberline {3.2.3}Stable Matching}{31}{}%
+\contentsline {subsubsection}{\numberline {3.2.4}Preference List}{31}{}%
+\contentsline {subsubsection}{\numberline {3.2.5}Marriage Problem}{31}{}%
+\contentsline {subsubsection}{\numberline {3.2.6}Gale-Shapley Algorithm (proof of existence of stable maximum matching)}{31}{}%
+\contentsline {subsection}{\numberline {3.3}Growth Of Functions}{33}{}%
+\contentsline {subsubsection}{\numberline {3.3.1}Introduction}{33}{}%
+\contentsline {subsubsection}{\numberline {3.3.2}Big-O Notation}{33}{}%
+\contentsline {subsubsection}{\numberline {3.3.3}Examples of big-O}{33}{}%
+\contentsline {subsubsection}{\numberline {3.3.4}Big-O Estimation for Polynomials}{33}{}%
+\contentsline {subsubsection}{\numberline {3.3.5}Big-O Examples}{33}{}%
+\contentsline {subsubsection}{\numberline {3.3.6}Combination of Functions}{34}{}%
+\contentsline {subsubsection}{\numberline {3.3.7}Big-Omega Notation}{34}{}%
+\contentsline {subsubsection}{\numberline {3.3.8}Example of Big-Omega}{35}{}%
+\contentsline {subsubsection}{\numberline {3.3.9}Big-Theta Notation}{35}{}%
+\contentsline {subsubsection}{\numberline {3.3.10}Big-Theta Estimation for Polynomials}{35}{}%
+\contentsline {subsubsection}{\numberline {3.3.11}Little-o Notation}{35}{}%
+\contentsline {subsection}{\numberline {3.4}Complexity of Algorithms}{35}{}%
+\contentsline {subsubsection}{\numberline {3.4.1}Definition}{35}{}%
+\contentsline {subsubsection}{\numberline {3.4.2}Time Complexity}{36}{}%
+\contentsline {subsubsection}{\numberline {3.4.3}Example of Worst-case complexity (1)}{36}{}%
+\contentsline {subsubsection}{\numberline {3.4.4}Example of Worst-case complexity (2)}{36}{}%
+\contentsline {subsubsection}{\numberline {3.4.5}Summary of Complexity for some Algorithms}{37}{}%
+\contentsline {subsubsection}{\numberline {3.4.6}Hierarchy of Functions}{37}{}%
+\contentsline {section}{\numberline {4}Induction and Recursion}{38}{}%
+\contentsline {subsection}{\numberline {4.1}Mathematical Induction}{38}{}%
+\contentsline {subsubsection}{\numberline {4.1.1}Definition}{38}{}%
+\contentsline {subsubsection}{\numberline {4.1.2}Induction as Inference Rule}{38}{}%
+\contentsline {subsubsection}{\numberline {4.1.3}Why Induction is Valid ?}{38}{}%
+\contentsline {subsubsection}{\numberline {4.1.4}Example of Induction}{38}{}%
+\contentsline {subsubsection}{\numberline {4.1.5}Example of Induction with Sets}{38}{}%
+\contentsline {subsubsection}{\numberline {4.1.6}Strong Induction}{39}{}%
+\contentsline {subsection}{\numberline {4.2}Recursive Definitions and Structural Induction}{39}{}%
+\contentsline {subsubsection}{\numberline {4.2.1}Recursive Defined Function}{39}{}%
+\contentsline {subsubsection}{\numberline {4.2.2}Recursively Defined Sets and Structures}{39}{}%
+\contentsline {subsection}{\numberline {4.3}Recursive Algorithms}{39}{}%
+\contentsline {subsubsection}{\numberline {4.3.1}Definition}{39}{}%
+\contentsline {subsubsection}{\numberline {4.3.2}Recursive Algorithms Better Than Others}{40}{}%
+\contentsline {subsubsection}{\numberline {4.3.3}Difference between Recursion and Induction}{40}{}%
+\contentsline {section}{\numberline {5}Number Theory and Group Theory}{41}{}%
+\contentsline {subsection}{\numberline {5.1}Division}{41}{}%
+\contentsline {subsubsection}{\numberline {5.1.1}Division}{41}{}%
+\contentsline {subsubsection}{\numberline {5.1.2}Properties of Division}{41}{}%
+\contentsline {subsubsection}{\numberline {5.1.3}Division Algorithm}{42}{}%
+\contentsline {subsection}{\numberline {5.2}Modular Arithmetic}{42}{}%
+\contentsline {subsubsection}{\numberline {5.2.1}Congruence Relation}{42}{}%
+\contentsline {subsubsection}{\numberline {5.2.2}Congruences of Sums and Products}{42}{}%
+\contentsline {subsection}{\numberline {5.3}Integer Representation and Algorithm}{42}{}%
+\contentsline {subsubsection}{\numberline {5.3.1}Representation of Integers}{42}{}%
+\contentsline {subsubsection}{\numberline {5.3.2}Base b Representation}{42}{}%
+\contentsline {subsubsection}{\numberline {5.3.3}Base b Expansion Algorithm}{43}{}%
+\contentsline {subsubsection}{\numberline {5.3.4}Conversion into Basis}{43}{}%
+\contentsline {subsection}{\numberline {5.4}Arithmetic with Base 2}{43}{}%
+\contentsline {subsubsection}{\numberline {5.4.1}Addition of Integers}{43}{}%
+\contentsline {subsubsection}{\numberline {5.4.2}Multiplication of Integers}{44}{}%
+\contentsline {subsection}{\numberline {5.5}Prime Numbers}{44}{}%
+\contentsline {subsubsection}{\numberline {5.5.1}Definition}{44}{}%
+\contentsline {subsubsection}{\numberline {5.5.2}Fundamental Theorem of Arithmetic}{44}{}%
+\contentsline {subsubsection}{\numberline {5.5.3}Trial Division}{45}{}%
+\contentsline {subsubsection}{\numberline {5.5.4}Infinity of Primes}{45}{}%
+\contentsline {subsubsection}{\numberline {5.5.5}Distribution of Primes}{46}{}%
+\contentsline {subsubsection}{\numberline {5.5.6}Theorem (Prime Numbers)}{46}{}%
+\contentsline {subsubsection}{\numberline {5.5.7}Co-prime}{46}{}%
+\contentsline {subsubsection}{\numberline {5.5.8}Theorem (Co-prime)}{46}{}%
+\contentsline {subsubsection}{\numberline {5.5.9}Goldbach's Conjecture}{46}{}%
+\contentsline {subsection}{\numberline {5.6}GCD - LCM}{46}{}%
+\contentsline {subsubsection}{\numberline {5.6.1}Greatest Common Divisor (GCD)}{46}{}%
+\contentsline {subsubsection}{\numberline {5.6.2}Relatively Prime}{47}{}%
+\contentsline {subsubsection}{\numberline {5.6.3}Compute the GCD}{47}{}%
+\contentsline {subsubsection}{\numberline {5.6.4}Complexity of the Euclidean Algorithm}{47}{}%
+\contentsline {subsubsection}{\numberline {5.6.5}Least Common Multiple (LCM)}{47}{}%
+\contentsline {subsubsection}{\numberline {5.6.6}Compute the LCM}{48}{}%
+\contentsline {subsubsection}{\numberline {5.6.7}Multiplying GCD and LCM}{48}{}%
+\contentsline {subsection}{\numberline {5.7}Congruence Classes}{48}{}%
+\contentsline {subsubsection}{\numberline {5.7.1}Definition of Modulus}{48}{}%
+\contentsline {subsubsection}{\numberline {5.7.2}Set of All Congruence Classes}{48}{}%
+\contentsline {subsubsection}{\numberline {5.7.3}Properties of congruence classes}{48}{}%
+\contentsline {subsubsection}{\numberline {5.7.4}Inverse and Solution Equivalence}{49}{}%
+\contentsline {subsubsection}{\numberline {5.7.5}Theorem of Multiplicative Inverse}{49}{}%
+\contentsline {subsubsection}{\numberline {5.7.6}Multiplicative Inverse and Primes}{49}{}%
+\contentsline {subsubsection}{\numberline {5.7.7}Bézout Identity}{49}{}%
+\contentsline {subsection}{\numberline {5.8}Commutative Groups}{50}{}%
+\contentsline {subsubsection}{\numberline {5.8.1}Definition}{50}{}%
+\contentsline {subsubsection}{\numberline {5.8.2}Euler's phi function}{51}{}%
+\contentsline {subsubsection}{\numberline {5.8.3}Cartesian Product with Groups}{51}{}%
+\contentsline {subsection}{\numberline {5.9}Isomorphisms}{51}{}%
+\contentsline {subsubsection}{\numberline {5.9.1}Definition}{51}{}%
+\contentsline {subsubsection}{\numberline {5.9.2}Implication of Isomorphism}{51}{}%
+\contentsline {subsubsection}{\numberline {5.9.3}Definition (Order)}{53}{}%
+\contentsline {subsubsection}{\numberline {5.9.4}Lagrange's Theorem}{54}{}%
+\contentsline {subsubsection}{\numberline {5.9.5}Isomorphism and Orders}{54}{}%
+\contentsline {subsubsection}{\numberline {5.9.6}Equivalence with Lagrange Theorem}{54}{}%
+\contentsline {subsubsection}{\numberline {5.9.7}Euler's Theorem}{54}{}%
+\contentsline {subsubsection}{\numberline {5.9.8}Corrolary to Euler (Fermat's Theorem)}{54}{}%
+\contentsline {subsubsection}{\numberline {5.9.9}The Chinese Remainder Theorem (CRT)}{54}{}%
+\contentsline {subsubsection}{\numberline {5.9.10}Theorem (Combine Fermat and CRT)}{55}{}%
+\contentsline {subsubsection}{\numberline {5.9.11}Cyclic Groups}{55}{}%
+\contentsline {subsubsection}{\numberline {5.9.12}Discrete Exponentiation/Logarithms}{55}{}%
+\contentsline {subsection}{\numberline {5.10}Fields}{56}{}%
+\contentsline {subsubsection}{\numberline {5.10.1}Lemma of Prime Numbers (Characteristic)}{56}{}%
+\contentsline {subsubsection}{\numberline {5.10.2}Definition Isomorphism in Fields}{56}{}%
+\contentsline {subsubsection}{\numberline {5.10.3}Interesting Facts}{56}{}%
+\contentsline {subsection}{\numberline {5.11}Vector Space}{57}{}%
+\contentsline {subsubsection}{\numberline {5.11.1}Definition}{57}{}%
+\contentsline {subsubsection}{\numberline {5.11.2}Subspace}{57}{}%
+\contentsline {subsubsection}{\numberline {5.11.3}Linear Independence}{57}{}%
+\contentsline {subsubsection}{\numberline {5.11.4}Basics Theorems}{58}{}%
+\contentsline {subsubsection}{\numberline {5.11.5}Cardinality of a vector space}{58}{}%
+\contentsline {subsubsection}{\numberline {5.11.6}Subspace S of F power n}{58}{}%
+\contentsline {subsubsection}{\numberline {5.11.7}Fulfilled a system}{58}{}%
+\contentsline {subsubsection}{\numberline {5.11.8}Find the Dimension of a Subspace}{59}{}%
+\contentsline {subsubsection}{\numberline {5.11.9}Important Facts}{59}{}%
+\contentsline {subsubsection}{\numberline {5.11.10}Find the Dimension of a Subspace (Revisited)}{59}{}%
+\contentsline {subsubsection}{\numberline {5.11.11}Cardinality and Dimension}{59}{}%
+\contentsline {section}{\numberline {6}Counting}{61}{}%
+\contentsline {subsection}{\numberline {6.1}Basic Counting Principles}{61}{}%
+\contentsline {subsubsection}{\numberline {6.1.1}Product Rule Principle}{61}{}%
+\contentsline {subsubsection}{\numberline {6.1.2}Counting Functions}{61}{}%
+\contentsline {subsubsection}{\numberline {6.1.3}The Sum Rule}{61}{}%
+\contentsline {subsubsection}{\numberline {6.1.4}Sum Rule with Sets}{61}{}%
+\contentsline {subsection}{\numberline {6.2}Pigeonhole Principle}{61}{}%
+\contentsline {subsubsection}{\numberline {6.2.1}Definition}{61}{}%
+\contentsline {subsubsection}{\numberline {6.2.2}Generalization of Pigeonhole Principle}{62}{}%
+\contentsline {subsubsection}{\numberline {6.2.3}Example with Functions}{62}{}%
+\contentsline {subsubsection}{\numberline {6.2.4}Example with Months}{62}{}%
+\contentsline {subsection}{\numberline {6.3}Permutation and Combination}{62}{}%
+\contentsline {subsubsection}{\numberline {6.3.1}Definition of Permutation}{62}{}%
+\contentsline {subsubsection}{\numberline {6.3.2}Counting Number of Permutation}{62}{}%
+\contentsline {subsubsection}{\numberline {6.3.3}Definition of Combination}{63}{}%
+\contentsline {subsubsection}{\numberline {6.3.4}Example with Cards}{63}{}%
+\contentsline {subsection}{\numberline {6.4}Binomial Coefficients and Identities}{63}{}%
+\contentsline {subsubsection}{\numberline {6.4.1}Binomial Theorem}{63}{}%
+\contentsline {subsubsection}{\numberline {6.4.2}Proof of Binomial Theorem}{63}{}%
+\contentsline {subsubsection}{\numberline {6.4.3}Exponential Identity}{63}{}%
+\contentsline {subsubsection}{\numberline {6.4.4}Pascal's Identity}{64}{}%
+\contentsline {subsection}{\numberline {6.5}Permutation and Combination with Repetitions}{64}{}%
+\contentsline {subsubsection}{\numberline {6.5.1}Permutation with Repetitions}{64}{}%
+\contentsline {subsubsection}{\numberline {6.5.2}Example of r-Permutation with Repetitions}{64}{}%
+\contentsline {subsubsection}{\numberline {6.5.3}Combination with Repetitions}{64}{}%
+\contentsline {subsubsection}{\numberline {6.5.4}Example of r-Combination with Repetitions}{64}{}%
+\contentsline {subsubsection}{\numberline {6.5.5}Permutations with Indistinguishable Objects}{65}{}%
+\contentsline {section}{\numberline {7}Advanced Counting}{65}{}%
+\contentsline {subsection}{\numberline {7.1}Counting with Recurrence Relations}{65}{}%
+\contentsline {subsubsection}{\numberline {7.1.1}Recurrence Relation}{65}{}%
+\contentsline {subsubsection}{\numberline {7.1.2}Counting Bit Strings}{65}{}%
+\contentsline {subsection}{\numberline {7.2}Solving Linear Recurrence Relations}{65}{}%
+\contentsline {subsubsection}{\numberline {7.2.1}Linear Homogeneous Recurrence Relation}{65}{}%
+\contentsline {subsubsection}{\numberline {7.2.2}Examples of Linear Homogeneous Recurrence Relation}{66}{}%
+\contentsline {subsubsection}{\numberline {7.2.3}Characteristic Equation}{66}{}%
+\contentsline {subsubsection}{\numberline {7.2.4}Solving Linear Homogeneous Recurrence Relation of degree 2}{66}{}%
+\contentsline {subsubsection}{\numberline {7.2.5}Example of solving Linear Homogeneous Recurrence Relation of degree 2}{66}{}%
+\contentsline {subsubsection}{\numberline {7.2.6}Solving Linear Homogeneous Recurrence Relation of Arbitrary degree}{66}{}%
+\contentsline {subsection}{\numberline {7.3}Generating Functions}{67}{}%
+\contentsline {subsubsection}{\numberline {7.3.1}Definition}{67}{}%
+\contentsline {subsubsection}{\numberline {7.3.2}Examples of Generating functions}{67}{}%
+\contentsline {subsubsection}{\numberline {7.3.3}Solving Recurrence Relation with Generating Functions}{67}{}%
+\contentsline {subsection}{\numberline {7.4}Counting Problem}{67}{}%
+\contentsline {subsubsection}{\numberline {7.4.1}Extended Binomial Coefficients}{67}{}%
+\contentsline {subsubsection}{\numberline {7.4.2}Extended Binomial Theorem}{67}{}%
+\contentsline {subsection}{\numberline {7.5}Inclusion-Exclusion}{68}{}%
+\contentsline {subsubsection}{\numberline {7.5.1}Inclusion-Exclusion Principle (Recall)}{68}{}%
+\contentsline {subsubsection}{\numberline {7.5.2}Derangements}{68}{}%
+\contentsline {section}{\numberline {8}Probability}{69}{}%
+\contentsline {subsection}{\numberline {8.1}Introduction to Probability}{69}{}%
+\contentsline {subsubsection}{\numberline {8.1.1}Probability of an Event}{69}{}%
+\contentsline {subsubsection}{\numberline {8.1.2}Probability of Complement of Events}{69}{}%
+\contentsline {subsubsection}{\numberline {8.1.3}Probability of Union of Events}{69}{}%
+\contentsline {subsubsection}{\numberline {8.1.4}Independence of Events}{69}{}%
+\contentsline {subsection}{\numberline {8.2}Probability Theory}{70}{}%
+\contentsline {subsubsection}{\numberline {8.2.1}Limitation of Laplace's Definition}{70}{}%
+\contentsline {subsubsection}{\numberline {8.2.2}Probability Distribution}{70}{}%
+\contentsline {subsubsection}{\numberline {8.2.3}Combination of Events}{70}{}%
+\contentsline {subsubsection}{\numberline {8.2.4}Uniform Distribution}{70}{}%
+\contentsline {subsubsection}{\numberline {8.2.5}Pairwise and Mutual Independence}{70}{}%
+\contentsline {subsubsection}{\numberline {8.2.6}Independent Bernoulli Trials}{70}{}%
+\contentsline {subsection}{\numberline {8.3}Conditional Probability}{71}{}%
+\contentsline {subsubsection}{\numberline {8.3.1}Definition}{71}{}%
+\contentsline {subsubsection}{\numberline {8.3.2}Bayes' Theorem}{71}{}%
+\contentsline {subsubsection}{\numberline {8.3.3}Generalization of Bayes' Theorem}{71}{}%
+\contentsline {section}{\numberline {9}Advanced Probability}{72}{}%
+\contentsline {subsection}{\numberline {9.1}Expected Value}{72}{}%
+\contentsline {subsubsection}{\numberline {9.1.1}Random Variable}{72}{}%
+\contentsline {subsubsection}{\numberline {9.1.2}Distribution of Random Variable}{72}{}%
+\contentsline {subsubsection}{\numberline {9.1.3}Expected Value}{72}{}%
+\contentsline {subsubsection}{\numberline {9.1.4}Expected Value for Bernoulli Trials}{72}{}%
+\contentsline {subsubsection}{\numberline {9.1.5}Linearity of Expected Value}{73}{}%
+\contentsline {subsubsection}{\numberline {9.1.6}Independent Random Variables}{73}{}%
+\contentsline {subsection}{\numberline {9.2}Variance}{73}{}%
+\contentsline {subsubsection}{\numberline {9.2.1}Definition}{73}{}%
+\contentsline {subsubsection}{\numberline {9.2.2}Standard Deviation}{73}{}%
+\contentsline {subsubsection}{\numberline {9.2.3}Example to explain the variance}{73}{}%
+\contentsline {subsubsection}{\numberline {9.2.4}Characterization of Variance}{74}{}%
+\contentsline {subsubsection}{\numberline {9.2.5}Variance for Bernoulli Trials}{74}{}%
+\contentsline {subsubsection}{\numberline {9.2.6}Variance for Independent Random Variables}{74}{}%
+\contentsline {subsection}{\numberline {9.3}Estimation Deviation}{74}{}%
+\contentsline {subsubsection}{\numberline {9.3.1}Markov Inequality}{74}{}%
+\contentsline {subsubsection}{\numberline {9.3.2}Chebyshev's Inequality}{74}{}%
+\contentsline {subsection}{\numberline {9.4}Geometrical Distribution}{74}{}%
+\contentsline {subsubsection}{\numberline {9.4.1}Definition}{74}{}%
+\contentsline {subsubsection}{\numberline {9.4.2}Example of Geometrical Distribution}{75}{}%
+\contentsline {section}{\numberline {10}Entropy and Informations}{76}{}%
+\contentsline {subsection}{\numberline {10.1}Symbols}{76}{}%
+\contentsline {subsubsection}{\numberline {10.1.1}Informations and symbols}{76}{}%
+\contentsline {subsection}{\numberline {10.2}Amount of Informations}{76}{}%
+\contentsline {subsubsection}{\numberline {10.2.1}Conventions}{76}{}%
+\contentsline {subsubsection}{\numberline {10.2.2}Hartley's Measure}{76}{}%
+\contentsline {subsubsection}{\numberline {10.2.3}Shannon's Theory (Entropy)}{76}{}%
+\contentsline {subsubsection}{\numberline {10.2.4}Binary Entropy Function}{77}{}%
+\contentsline {subsection}{\numberline {10.3}Applications and Theorems}{77}{}%
+\contentsline {subsubsection}{\numberline {10.3.1}Theorem 1 (Entropy Bound)}{77}{}%
+\contentsline {subsubsection}{\numberline {10.3.2}Entropy with more than 1 random variable}{78}{}%
+\contentsline {subsubsection}{\numberline {10.3.3}Notations}{79}{}%
+\contentsline {subsubsection}{\numberline {10.3.4}Example with many random variables}{79}{}%
+\contentsline {subsubsection}{\numberline {10.3.5}Theorem 2 (Addition of Entropies)}{79}{}%
+\contentsline {subsection}{\numberline {10.4}Conditional Entropy}{79}{}%
+\contentsline {subsubsection}{\numberline {10.4.1}Global definition}{79}{}%
+\contentsline {subsubsection}{\numberline {10.4.2}Theorem 5 (Inequalities)}{80}{}%
+\contentsline {subsubsection}{\numberline {10.4.3}Theorem 6 (Change Rule of Entropy)}{80}{}%
+\contentsline {subsubsection}{\numberline {10.4.4}Notes About Entropy}{80}{}%
+\contentsline {section}{\numberline {11}Source Coding}{81}{}%
+\contentsline {subsection}{\numberline {11.1}Basics of Source Coding Theory}{81}{}%
+\contentsline {subsubsection}{\numberline {11.1.1}Schema of transmission}{81}{}%
+\contentsline {subsubsection}{\numberline {11.1.2}Basic example}{81}{}%
+\contentsline {subsubsection}{\numberline {11.1.3}Definitions}{81}{}%
+\contentsline {subsubsection}{\numberline {11.1.4}Theorem 1 (First Implications)}{82}{}%
+\contentsline {subsection}{\numberline {11.2}Kraft-McMillan and Uniformly Decodable Codes}{82}{}%
+\contentsline {subsubsection}{\numberline {11.2.1}Theorem 2 (Kraft-McMilan theorem Part 1)}{82}{}%
+\contentsline {subsubsection}{\numberline {11.2.2}Theorem 2 (Kraft-McMillan Part 2)}{82}{}%
+\contentsline {subsubsection}{\numberline {11.2.3}Theorem 3 (Mix Implications with Theorem 1)}{82}{}%
+\contentsline {subsection}{\numberline {11.3}Minimize Average Codewords Lengths}{83}{}%
+\contentsline {subsubsection}{\numberline {11.3.1}Explanation of Average Codewords Lengths}{83}{}%
+\contentsline {subsubsection}{\numberline {11.3.2}Theorem 4 (Lower Bound for the Average Codeword Lengths)}{83}{}%
+\contentsline {subsection}{\numberline {11.4}Advanced Source Coding}{83}{}%
+\contentsline {subsubsection}{\numberline {11.4.1}Shannon-Fano Code}{83}{}%
+\contentsline {subsubsection}{\numberline {11.4.2}Huffman's Construction Code}{83}{}%
+\contentsline {subsection}{\numberline {11.5}Generalization of Source Encoding}{84}{}%
+\contentsline {subsubsection}{\numberline {11.5.1}Different Types of Source}{84}{}%
+\contentsline {subsubsection}{\numberline {11.5.2}Definition of Regular Source}{84}{}%
+\contentsline {subsubsection}{\numberline {11.5.3}Inequality of Entropy Remake for many Sequences}{84}{}%
+\contentsline {subsubsection}{\numberline {11.5.4}Definition of Stationary Source}{85}{}%
+\contentsline {subsubsection}{\numberline {11.5.5}Theorem 7 (Implication of Stationary Source)}{85}{}%
+\contentsline {subsubsection}{\numberline {11.5.6}Theorem 8 (Relation between Rate and Per symbol Entropies)}{85}{}%
+\contentsline {subsubsection}{\numberline {11.5.7}Theorem 9 (Cesàro means)}{85}{}%
+\contentsline {subsubsection}{\numberline {11.5.8}Theorem 10 (Relation with Entropy Rate)}{86}{}%
+\contentsline {subsubsection}{\numberline {11.5.9}Summary of Source Encoding}{86}{}%
+\contentsline {subsubsection}{\numberline {11.5.10}Independent and Identically Distributed Symbols}{86}{}%
+\contentsline {subsection}{\numberline {11.6}Binary Prefix-Free Code for Positive Integers}{86}{}%
+\contentsline {subsubsection}{\numberline {11.6.1}Standard Method}{86}{}%
+\contentsline {subsubsection}{\numberline {11.6.2}Elias code 1}{86}{}%
+\contentsline {subsubsection}{\numberline {11.6.3}Elias code 2}{86}{}%
+\contentsline {section}{\numberline {12}Cryptography}{87}{}%
+\contentsline {subsection}{\numberline {12.1}Privacy / Confidentiality}{87}{}%
+\contentsline {subsubsection}{\numberline {12.1.1}Tools of cryptography}{87}{}%
+\contentsline {subsubsection}{\numberline {12.1.2}Description of Cryptography}{87}{}%
+\contentsline {subsubsection}{\numberline {12.1.3}Type of Attacks}{87}{}%
+\contentsline {subsubsection}{\numberline {12.1.4}Definition of Perfect Secrecy}{88}{}%
+\contentsline {subsubsection}{\numberline {12.1.5}Example of Perfect Secrecy: One-Time-Pad (OTP)}{88}{}%
+\contentsline {subsubsection}{\numberline {12.1.6}Theorem (Perfect Secrecy)}{88}{}%
+\contentsline {subsection}{\numberline {12.2}Public-Key Distribution}{88}{}%
+\contentsline {subsubsection}{\numberline {12.2.1}One-Way Function}{88}{}%
+\contentsline {subsubsection}{\numberline {12.2.2}DH-Distribution}{88}{}%
+\contentsline {subsubsection}{\numberline {12.2.3}Paradigm Perfect Secrecy and Security}{89}{}%
+\contentsline {subsubsection}{\numberline {12.2.4}Trapdoor One-Way Function}{89}{}%
+\contentsline {subsection}{\numberline {12.3}RSA (Rivest, Shamir, Adleman) Algorithm}{89}{}%
+\contentsline {subsubsection}{\numberline {12.3.1}Construction of the public key}{89}{}%
+\contentsline {subsubsection}{\numberline {12.3.2}Construction of the private key}{89}{}%
+\contentsline {subsection}{\numberline {12.4}Privacy for Cryptographic Systems}{89}{}%
+\contentsline {subsubsection}{\numberline {12.4.1}Hash Function}{89}{}%
+\contentsline {subsubsection}{\numberline {12.4.2}Digital Signature}{90}{}%
+\contentsline {subsubsection}{\numberline {12.4.3}Trusted Agency}{90}{}%
+\contentsline {subsubsection}{\numberline {12.4.4}Standarts}{90}{}%
+\contentsline {subsubsection}{\numberline {12.4.5}HTTPS}{90}{}%
+\contentsline {subsubsection}{\numberline {12.4.6}Example of IMessage (Apple)}{91}{}%
+\contentsline {subsubsection}{\numberline {12.4.7}Complexity of computing $ a^k \equiv \tmspace +\thickmuskip {.2777em}\mathrm {mod}\tmspace +\thickmuskip {.2777em} m $}{91}{}%
+\contentsline {subsubsection}{\numberline {12.4.8}Summaty of Symmetric and Asymmetric key Paradigms}{92}{}%
+\contentsline {section}{\numberline {13}Channel Coding}{93}{}%
+\contentsline {subsection}{\numberline {13.1}The Noisy Channel}{93}{}%
+\contentsline {subsubsection}{\numberline {13.1.1}Erasure Channel}{93}{}%
+\contentsline {subsubsection}{\numberline {13.1.2}Error Channel}{93}{}%
+\contentsline {subsubsection}{\numberline {13.1.3}Detection and Correction}{93}{}%
+\contentsline {subsection}{\numberline {13.2}Basics of Channel Coding}{93}{}%
+\contentsline {subsubsection}{\numberline {13.2.1}Terminology}{93}{}%
+\contentsline {subsubsection}{\numberline {13.2.2}The Hamming Distance}{94}{}%
+\contentsline {subsubsection}{\numberline {13.2.3}Theorem (Hamming Distance)}{94}{}%
+\contentsline {subsubsection}{\numberline {13.2.4}Hamming-Distance Decoder}{94}{}%
+\contentsline {subsubsection}{\numberline {13.2.5}The Minimum Sistance of a code C}{94}{}%
+\contentsline {subsubsection}{\numberline {13.2.6}What do we want from a Code}{94}{}%
+\contentsline {subsubsection}{\numberline {13.2.7}Singleton Bounds}{94}{}%
+\contentsline {subsection}{\numberline {13.3}Minimum Distance (MD) Decoder}{94}{}%
+\contentsline {subsubsection}{\numberline {13.3.1}Theorem (MD-Decoder in Erasure Channel) - Sufficient}{94}{}%
+\contentsline {subsubsection}{\numberline {13.3.2}Theorem (MD-Decoder in Error Channel)}{95}{}%
+\contentsline {subsection}{\numberline {13.4}Code and Linearity}{95}{}%
+\contentsline {subsubsection}{\numberline {13.4.1}Definition of a linear code}{95}{}%
+\contentsline {subsubsection}{\numberline {13.4.2}Dimension of a Linear Code}{95}{}%
+\contentsline {subsection}{\numberline {13.5}Hamming Weight}{95}{}%
+\contentsline {subsubsection}{\numberline {13.5.1}Definition}{95}{}%
+\contentsline {subsubsection}{\numberline {13.5.2}Theorem of Minimum Distance}{95}{}%
+\contentsline {subsection}{\numberline {13.6}Basis and Description of Code}{96}{}%
+\contentsline {subsubsection}{\numberline {13.6.1}Systematic Generator Matrices}{96}{}%
+\contentsline {subsection}{\numberline {13.7}Decoding}{96}{}%
+\contentsline {subsubsection}{\numberline {13.7.1}Error Pattern}{96}{}%
+\contentsline {subsubsection}{\numberline {13.7.2}Parity Check Matrix}{97}{}%
+\contentsline {subsubsection}{\numberline {13.7.3}Syndrome}{97}{}%
+\contentsline {subsubsection}{\numberline {13.7.4}Theorem Minimum Distance}{97}{}%
+\contentsline {subsubsection}{\numberline {13.7.5}Dimension of a Code with Parity Matrix}{97}{}%
+\contentsline {subsection}{\numberline {13.8}Decoding based on Cosets and Syndromes}{97}{}%
+\contentsline {subsubsection}{\numberline {13.8.1}Equivalence Relations with Codes}{97}{}%
+\contentsline {subsubsection}{\numberline {13.8.2}Cosets}{98}{}%
+\contentsline {subsubsection}{\numberline {13.8.3}Facts on cosets}{98}{}%
+\contentsline {subsubsection}{\numberline {13.8.4}Application of Cosets on Code}{98}{}%
+\contentsline {subsubsection}{\numberline {13.8.5}Standard Array}{98}{}%
+\contentsline {subsubsection}{\numberline {13.8.6}Coset Decoder}{98}{}%
+\contentsline {subsubsection}{\numberline {13.8.7}Theorem (Relation between Cosets and Syndromes)}{99}{}%
+\contentsline {subsubsection}{\numberline {13.8.8}Decoding Algorithm Explanation}{99}{}%
+\contentsline {subsubsection}{\numberline {13.8.9}Examples of Coset Decoding}{100}{}%
+\contentsline {subsection}{\numberline {13.9}Reed-Solomon Codes (RS)}{101}{}%
+\contentsline {subsubsection}{\numberline {13.9.1}Lagrange's Interpolation}{101}{}%
+\contentsline {subsubsection}{\numberline {13.9.2}Fundamental Theorem of Algebra}{101}{}%
+\contentsline {subsubsection}{\numberline {13.9.3}Construction}{101}{}%
+\contentsline {subsubsection}{\numberline {13.9.4}Properties of RS Codes}{102}{}%
+\contentsline {subsubsection}{\numberline {13.9.5}Example of RS Code}{102}{}%

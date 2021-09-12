@@ -1,0 +1,121 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+
+\title{Informations and Entropy}
+\author{Giovanni Ranieri}
+
+\begin{document}
+\maketitle
+
+\section{General Aspects}
+
+\subsection{Symbols}
+
+\subparagraph{Informations and symbols} A symbol $ S_i $ provides informations if and only if it is a random variable non-trivial (can take more than one value) over an Alphabet called $ A $. For example, $ A $ can be [0, 1] for tossing a coin.
+\begin{equation}
+S_i = \Omega \rightarrow A
+\end{equation}
+
+\subsection{Amount of informations} 
+
+\subparagraph{Conventions}
+\begin{itemize}
+\item $ 0log_b(0) = 0 $ because $ \lim\limits_{\epsilon \to 0}\epsilon \log_{b}(\epsilon) = 0 $
+\end{itemize}
+
+\subparagraph{Hartley's Measure} The amount of informations for Hartley by a symbol of an Alphabet $ A $ is
+\begin{equation}
+Amount = log \mid A \mid
+\end{equation}
+\\
+\\
+But there is a problem, because for example for the weather, if we want say that all days in this week will be sunny, and the last rainy with 0 for rainy and 1 for sunny ; we will have more informations in this message than if we announce that it will rain 3 days, and sun 4 days ; and that's not correct with Hartley description because rainy and sunny are in the same Alphabet here !
+
+\subparagraph{Shannon's Theory (Entropy)} The entropy $ H(S) $, associated to a random variable $ S $, is a mathematical function to, like Hartley's Measure, measure the amount of informations contained in a source of informations.
+\begin{equation}
+H_b(S) = - \sum_{s \in Supp(p_S)}p_S(s)log(p_S(s))
+\end{equation}
+\\
+\\
+where $ Supp(p_S) $ means without zero-probability events. It's needed to avoid $ log_b(0) $. Because by convention we say that $ p_S(s)log(p_S(s)) = 0 $ when $ p_S(s) = 0 $ we can write
+\begin{equation}
+H_b(S) = - \sum_{s \in A}p_S(s)log(p_S(s))
+\end{equation}
+\\
+\\
+The $ b $ defines the unit. For bits, we say that $ b = 2 $. Now we can think to evaluate this by first computing $ -log(p_S(s)) $ for each $ s \in A $, and then take the average(excluding zero-probability terms).
+\begin{equation}
+H(S) = E[-log(p_S(s))]
+\end{equation}
+\\
+\\
+We see know that the 2 measures are the same when the random variable is uniformly distributed over the Alphabet. When it is, we have $ p_S(s) = \frac{1}{\mid A \mid} $ and $ -log(p_S(s)) = log(\mid A \mid) $, which is constant. In this case, $ H(S) = E(log(A)) = log(\mid A \mid) $.
+\\
+\\
+So to resume, we can compute the entropy of a source of information:
+\begin{equation}
+H_b(X) = -E[\log_bP(X)] = \sum_{i=1}^{n}P_i\log_b(\frac{1}{P_i}) = - \sum_{i=1}^{n}P_i\log_b(P_i)
+\end{equation}
+
+\subparagraph{Example (Binary Entropy Function)} Let's take $ S \in [0, 1] $ be a binary random variable. $ p_S(s) $ is described by one parameter, to $ p = p_S(s) $.
+\begin{equation}
+H_2(S) = - [plog_2(p) + (1-p)log_2(1-p)] = h(p)
+\end{equation}
+\\
+\\
+Where $ h(p) $ is called $ \textbf{the binary entropy function} $.For $ p = 0, h(p) = 0 $. For $ p = 1, h(p) = 0 $. For $ p = \frac{1}{2}, h(p) = 1 $.
+\\
+\\
+
+\subsection{Applications and Theorems}
+\subparagraph{Theorem 1 (Entropy Bound)} Let $ S \in A $ be a random variable, then
+\begin{equation}
+0 \leq H_b(S) \leq \log_b| A |
+\end{equation}
+\\
+The first inequality becomes an equality if $ S $ is constant ; and the second too if $ S $ is uniformly distributed.
+
+\subparagraph{Entropy with more than 1 random variable} Let $ X: \Omega \rightarrow \Lambda $ and $ Y: \Omega \rightarrow \Upsilon $ be random variables, then 
+\begin{equation}
+H_b(X, Y) = - \sum_{x, y \in \Lambda x \Upsilon}p_X,_Y(x, y)log(p_X,_Y(x, y)) = E[-\log_b(p_X,_Y(x, y))] = - \sum_{i}p_i\log(p_i)
+\end{equation}
+
+\subparagraph{Notations}
+\begin{itemize}
+\item $ S_1, S_2, ..., S_n = [S_i]_{i=1}^{n} $
+\end{itemize}
+
+\subparagraph{Example with many random variables}
+Let $ [S_i]_{i=1}^{n} $ be coin flips $ S_i \in [0, 1] = A $. If the coin is fair, and so all flips are independent, then $ p_{S_1,S_2,...,S_n}(s_1, s_2, ..., s_n) = \prod_{i=1}^{n}p_{S_i}(s_i) = (\frac{1}{2})^n $ because all flips have probability one half , and this $ \forall ([S_i]_{i=1}^{n}) \in [0, 1]^n $
+\\
+\\
+So $ H_2([S_i]_{i=1}^{n}) = log_2| [0, 1]^n | = n $ bits. It's logic because we must have only 1 number, 0 or 1, to send the information of the result. It's equal to log of the cardinality of the set because it's uniformly distributed (see theorem 1 of this subsection).
+
+\subparagraph{Theorem 2 (Addition of entropies)} Let $ [S_i]_{i=1}^{n} $ be random variables, then
+\begin{equation}
+H([S_i]_{i=1}^{n}) \leq H(S_1) + H(S_2) + ... + H(S_n)
+\end{equation}
+\\
+The inequality becomes an equality if all random variables are independent.
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
