@@ -1,11 +1,15 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.6.18)  9 JUL 2021 17:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.9.15)  25 JAN 2022 14:01
 entering extended mode
 **./AICCII.tex
 (AICCII.tex
 LaTeX2e <2021-06-01>
-L3 programming layer <2021-06-01> (C:\Miktex\tex/latex/base\article.cls
+L3 programming layer <2021-06-01>
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/latex/base\article
+.cls
 Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
-(C:\Miktex\tex/latex/base\size10.clo
+
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.
+clo
 File: size10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count182
@@ -19,29 +23,37 @@ File: size10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
-) (C:\Miktex\tex/latex/base\inputenc.sty
+)
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/latex/base\inputen
+c.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks16
 \inpenc@posthook=\toks17
 )
-(C:\Miktex\tex/latex/amsmath\amsmath.sty
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsm
+ath.sty
 Package: amsmath 2021/04/20 v2.17j AMS math features
 \@mathmargin=\skip49
 
 For additional information on amsmath, use the `?' option.
-(C:\Miktex\tex/latex/amsmath\amstext.sty
+
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amst
+ext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
 
-(C:\Miktex\tex/latex/amsmath\amsgen.sty
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsg
+en.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks18
 \ex@=\dimen139
 ))
-(C:\Miktex\tex/latex/amsmath\amsbsy.sty
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsb
+sy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen140
 )
-(C:\Miktex\tex/latex/amsmath\amsopn.sty
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amso
+pn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count190
@@ -82,60 +94,79 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
 LaTeX Info: Redefining \[ on input line 2923.
 LaTeX Info: Redefining \] on input line 2924.
 )
-(C:\Miktex\tex/latex/tcolorbox\tcolorbox.sty
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tc
+olorbox.sty
 Package: tcolorbox 2021/05/21 version 4.50 text color boxes
 
-(C:\Miktex\tex/latex/pgf/basiclayer\pgf.sty
-(C:\Miktex\tex/latex/pgf/utilities\pgfrcs.sty
-(C:\Miktex\tex/generic/pgf/utilities\pgfutil-common.tex
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclay
+er\pgf.sty
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilitie
+s\pgfrcs.sty
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilit
+ies\pgfutil-common.tex
 \pgfutil@everybye=\toks23
 \pgfutil@tempdima=\dimen148
 \pgfutil@tempdimb=\dimen149
 
-(C:\Miktex\tex/generic/pgf/utilities\pgfutil-common-lists.tex))
-(C:\Miktex\tex/generic/pgf/utilities\pgfutil-latex.def
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilit
+ies\pgfutil-common-lists.tex))
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilit
+ies\pgfutil-latex.def
 \pgfutil@abb=\box52
 )
-(C:\Miktex\tex/generic/pgf/utilities\pgfrcs.code.tex
-(C:\Miktex\tex/generic/pgf\pgf.revision.tex)
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilit
+ies\pgfrcs.code.tex
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.re
+vision.tex)
 Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
 ))
 Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
 
-(C:\Miktex\tex/latex/pgf/basiclayer\pgfcore.sty
-(C:\Miktex\tex/latex/graphics\graphicx.sty
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclay
+er\pgfcore.sty
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/latex/graphics\gra
+phicx.sty
 Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
 
-(C:\Miktex\tex/latex/graphics\keyval.sty
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/latex/graphics\key
+val.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks24
 )
-(C:\Miktex\tex/latex/graphics\graphics.sty
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/latex/graphics\gra
+phics.sty
 Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
 
-(C:\Miktex\tex/latex/graphics\trig.sty
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/latex/graphics\tri
+g.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(C:\Miktex\tex/latex/graphics-cfg\graphics.cfg
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg
+\graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
 
-(C:\Miktex\tex/latex/graphics-def\pdftex.def
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def
+\pdftex.def
 File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen150
 \Gin@req@width=\dimen151
 )
-(C:\Miktex\tex/latex/pgf/systemlayer\pgfsys.sty
-(C:\Miktex\tex/generic/pgf/systemlayer\pgfsys.code.tex
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemla
+yer\pgfsys.sty
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/system
+layer\pgfsys.code.tex
 Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
 
-(C:\Miktex\tex/generic/pgf/utilities\pgfkeys.code.tex
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilit
+ies\pgfkeys.code.tex
 \pgfkeys@pathtoks=\toks25
 \pgfkeys@temptoks=\toks26
 
-(C:\Miktex\tex/generic/pgf/utilities\pgfkeysfiltered.code.tex
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilit
+ies\pgfkeysfiltered.code.tex
 \pgfkeys@tmptoks=\toks27
 ))
 \pgf@x=\dimen152
@@ -159,29 +190,36 @@ Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
 \t@pgf@tokc=\toks30
 \pgf@sys@id@count=\count272
 
-(C:\Miktex\tex/generic/pgf/systemlayer\pgf.cfg
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/system
+layer\pgf.cfg
 File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
 )
 Driver file for pgf: pgfsys-pdftex.def
 
-(C:\Miktex\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/system
+layer\pgfsys-pdftex.def
 File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
 
-(C:\Miktex\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/system
+layer\pgfsys-common-pdf.def
 File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
 )))
-(C:\Miktex\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/system
+layer\pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfsyssoftpath@smallbuffer@items=\count273
 \pgfsyssoftpath@bigbuffer@items=\count274
 )
-(C:\Miktex\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/system
+layer\pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 ))
-(C:\Miktex\tex/latex/xcolor\xcolor.sty
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolo
+r.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-(C:\Miktex\tex/latex/graphics-cfg\color.cfg
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg
+\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -195,13 +233,18 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
-(C:\Miktex\tex/generic/pgf/basiclayer\pgfcore.code.tex
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcore.code.tex
 Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
 
-(C:\Miktex\tex/generic/pgf/math\pgfmath.code.tex
-(C:\Miktex\tex/generic/pgf/math\pgfmathcalc.code.tex
-(C:\Miktex\tex/generic/pgf/math\pgfmathutil.code.tex)
-(C:\Miktex\tex/generic/pgf/math\pgfmathparser.code.tex
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmath.code.tex
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmathcalc.code.tex
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmathutil.code.tex)
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmathparser.code.tex
 \pgfmath@dimen=\dimen162
 \pgfmath@count=\count275
 \pgfmath@box=\box53
@@ -209,20 +252,32 @@ Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
 \pgfmath@stack@operand=\toks32
 \pgfmath@stack@operation=\toks33
 )
-(C:\Miktex\tex/generic/pgf/math\pgfmathfunctions.code.tex
-(C:\Miktex\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex)
-(C:\Miktex\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex)
-(C:\Miktex\tex/generic/pgf/math\pgfmathfunctions.random.code.tex)
-(C:\Miktex\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex)
-(C:\Miktex\tex/generic/pgf/math\pgfmathfunctions.base.code.tex)
-(C:\Miktex\tex/generic/pgf/math\pgfmathfunctions.round.code.tex)
-(C:\Miktex\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex)
-(C:\Miktex\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex)))
-(C:\Miktex\tex/generic/pgf/math\pgfmathfloat.code.tex
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmathfunctions.code.tex
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmathfunctions.basic.code.tex)
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmathfunctions.trigonometric.code.tex)
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmathfunctions.random.code.tex)
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmathfunctions.comparison.code.tex)
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmathfunctions.base.code.tex)
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmathfunctions.round.code.tex)
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmathfunctions.misc.code.tex)
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmathfunctions.integerarithmetics.code.tex)))
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmathfloat.code.tex
 \c@pgfmathroundto@lastzeros=\count276
 ))
-(C:\Miktex\tex/generic/pgf/math\pgfint.code.tex)
-(C:\Miktex\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfint.code.tex)
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@picminx=\dimen163
 \pgf@picmaxx=\dimen164
@@ -239,99 +294,123 @@ File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@zx=\dimen175
 \pgf@zy=\dimen176
 )
-(C:\Miktex\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcorepathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@path@lastx=\dimen177
 \pgf@path@lasty=\dimen178
 )
-(C:\Miktex\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcorepathusage.code.tex
 File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@shorten@end@additional=\dimen179
 \pgf@shorten@start@additional=\dimen180
 )
-(C:\Miktex\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfpic=\box54
 \pgf@hbox=\box55
 \pgf@layerbox@main=\box56
 \pgf@picture@serial@count=\count277
 )
-(C:\Miktex\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgflinewidth=\dimen181
 )
-(C:\Miktex\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcoretransformations.code.tex
 File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@pt@x=\dimen182
 \pgf@pt@y=\dimen183
 \pgf@pt@temp=\dimen184
 )
-(C:\Miktex\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(C:\Miktex\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcoreobjects.code.tex
 File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(C:\Miktex\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcorepathprocessing.code.tex
 File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(C:\Miktex\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcorearrows.code.tex
 File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfarrowsep=\dimen185
 )
-(C:\Miktex\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@max=\dimen186
 \pgf@sys@shading@range@num=\count278
 \pgf@shadingcount=\count279
 )
-(C:\Miktex\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 
-(C:\Miktex\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcoreexternal.code.tex
 File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfexternal@startupbox=\box57
 ))
-(C:\Miktex\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcorelayers.code.tex
 File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(C:\Miktex\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcoretransparency.code.tex
 File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(C:\Miktex\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcorepatterns.code.tex
 File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(C:\Miktex\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicl
+ayer\pgfcorerdf.code.tex
 File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )))
-(C:\Miktex\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/module
+s\pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfnodeparttextbox=\box58
 )
-(C:\Miktex\tex/generic/pgf/modules\pgfmoduleplot.code.tex
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/module
+s\pgfmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(C:\Miktex\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatib
+ility\pgfcomp-version-0-65.sty
 Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@nodesepstart=\dimen187
 \pgf@nodesepend=\dimen188
 )
-(C:\Miktex\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatib
+ility\pgfcomp-version-1-18.sty
 Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
 ))
-(C:\Miktex\tex/latex/tools\verbatim.sty
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbat
+im.sty
 Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks34
 \verbatim@line=\toks35
 \verbatim@in@stream=\read3
 )
-(C:\Miktex\tex/latex/environ\environ.sty
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/latex/environ\envi
+ron.sty
 Package: environ 2014/05/04 v0.3 A new way to define environments
 
-(C:\Miktex\tex/latex/trimspaces\trimspaces.sty
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\t
+rimspaces.sty
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 ))
-(C:\Miktex\tex/latex/etoolbox\etoolbox.sty
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\eto
+olbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count280
 )
@@ -347,7 +426,8 @@ Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \tcb@temp=\box65
 \tcb@temp=\box66
 )
-(C:\Miktex\tex/latex/amsfonts\amsfonts.sty
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\ams
+fonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
@@ -355,28 +435,39 @@ LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )
-(C:\Miktex\tex/latex/amsfonts\amssymb.sty
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\ams
+symb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 )
-(C:\Miktex\tex/latex/pgf/frontendlayer\tikz.sty
-(C:\Miktex\tex/latex/pgf/utilities\pgffor.sty
-(C:\Miktex\tex/latex/pgf/utilities\pgfkeys.sty
-(C:\Miktex\tex/generic/pgf/utilities\pgfkeys.code.tex))
-(C:\Miktex\tex/latex/pgf/math\pgfmath.sty
-(C:\Miktex\tex/generic/pgf/math\pgfmath.code.tex))
-(C:\Miktex\tex/generic/pgf/utilities\pgffor.code.tex
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontend
+layer\tikz.sty
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilitie
+s\pgffor.sty
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilitie
+s\pgfkeys.sty
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilit
+ies\pgfkeys.code.tex))
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgf
+math.sty
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmath.code.tex))
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilit
+ies\pgffor.code.tex
 Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
 
-(C:\Miktex\tex/generic/pgf/math\pgfmath.code.tex)
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\p
+gfmath.code.tex)
 \pgffor@iter=\dimen189
 \pgffor@skip=\dimen190
 \pgffor@stack=\toks36
 \pgffor@toks=\toks37
 ))
-(C:\Miktex\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/fronte
+ndlayer/tikz\tikz.code.tex
 Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
 
-(C:\Miktex\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/librar
+ies\pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@plot@mark@count=\count284
 \pgfplotmarksize=\dimen191
@@ -398,7 +489,8 @@ File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \tikznumberofcurrentchild=\count287
 \tikz@fig@count=\count288
 
-(C:\Miktex\tex/generic/pgf/modules\pgfmodulematrix.code.tex
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/module
+s\pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfmatrixcurrentrow=\count289
 \pgfmatrixcurrentcolumn=\count290
@@ -406,19 +498,24 @@ File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
 \tikz@expandcount=\count292
 
-(C:\Miktex\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code
-.tex
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/fronte
+ndlayer/tikz/libraries\tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-))) (C:\Miktex\tex/latex/ebproof\ebproof.sty
-(C:\Miktex\tex/latex/l3kernel\expl3.sty
+)))
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/latex/ebproof\ebpr
+oof.sty
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\exp
+l3.sty
 Package: expl3 2021-06-01 L3 programming layer (loader) 
 
-(C:\Miktex\tex/latex/l3backend\l3backend-pdftex.def
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3
+backend-pdftex.def
 File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count293
 \l__pdf_internal_box=\box71
 ))
-(C:\Miktex\tex/latex/l3packages/xparse\xparse.sty
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/x
+parse\xparse.sty
 Package: xparse 2021-06-01 L3 Experimental document command parser
 )
 Package: ebproof 2021/01/28 v2.1.1 EB's proof trees
@@ -439,11 +536,16 @@ Package: ebproof 2021/01/28 v2.1.1 EB's proof trees
 \l__ebproof_3_box=\box75
 \l__ebproof_4_box=\box76
 )
-(C:\Miktex\tex/latex/subfig\subfig.sty
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/latex/subfig\subfi
+g.sty
 Package: subfig 2005/06/28 ver: 1.3 subfig package
- (C:\Miktex\tex/latex/caption\caption.sty
+
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/latex/caption\capt
+ion.sty
 Package: caption 2020/10/26 v3.5g Customizing captions (AR)
-(C:\Miktex\tex/latex/caption\caption3.sty
+
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/latex/caption\capt
+ion3.sty
 Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
 \captionmargin=\dimen265
 \captionmargin@=\dimen266
@@ -471,9 +573,12 @@ Package caption Info: Standard document class detected.
 \sf@top=\skip55
 \sf@bottom=\skip56
 )
-(C:\Miktex\tex/latex/tcolorbox\tcblistings.code.tex
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tc
+blistings.code.tex
 Library (tcolorbox): 'tcblistings.code.tex' version '4.50'
-(C:\Miktex\tex/latex/listings\listings.sty
+
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/latex/listings\lis
+tings.sty
 \lst@mode=\count305
 \lst@gtempboxa=\box77
 \lst@token=\toks38
@@ -487,85 +592,101 @@ Library (tcolorbox): 'tcblistings.code.tex' version '4.50'
 \lst@lineno=\count310
 \lst@maxwidth=\dimen276
 
-(C:\Miktex\tex/latex/listings\lstmisc.sty
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/latex/listings\lst
+misc.sty
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
 \c@lstnumber=\count311
 \lst@skipnumbers=\count312
 \lst@framebox=\box78
 )
-(C:\Miktex\tex/latex/listings\listings.cfg
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/latex/listings\lis
+tings.cfg
 File: listings.cfg 2020/03/24 1.8d listings configuration
 ))
 Package: listings 2020/03/24 1.8d (Carsten Heinz)
 
-(C:\Miktex\tex/latex/tcolorbox\tcblistingscore.code.tex
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tc
+blistingscore.code.tex
 Library (tcolorbox): 'tcblistingscore.code.tex' version '4.50'
-(C:\Miktex\tex/latex/tcolorbox\tcbprocessing.code.tex
+
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tc
+bprocessing.code.tex
 Library (tcolorbox): 'tcbprocessing.code.tex' version '4.50'
-(C:\Miktex\tex/generic/pdftexcmds\pdftexcmds.sty
+
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds
+\pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(C:\Miktex\tex/generic/infwarerr\infwarerr.sty
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\
+infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
-(C:\Miktex\tex/generic/iftex\iftex.sty
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifte
+x.sty
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 )
-(C:\Miktex\tex/generic/ltxcmds\ltxcmds.sty
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\lt
+xcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(C:\Miktex\tex/latex/tools\shellesc.sty
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/latex/tools\shelle
+sc.sty
 Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
 Package shellesc Info: Restricted shell escape enabled on input line 77.
 ))
 \c@tcblisting=\count313
 ))
-(C:\Miktex\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryshapes.code.
-tex
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/fronte
+ndlayer/tikz/libraries\tikzlibraryshapes.code.tex
 File: tikzlibraryshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 
-(C:\Miktex\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryshapes.geome
-tric.code.tex
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/fronte
+ndlayer/tikz/libraries\tikzlibraryshapes.geometric.code.tex
 File: tikzlibraryshapes.geometric.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 
-(C:\Miktex\tex/generic/pgf/libraries/shapes\pgflibraryshapes.geometric.code.tex
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/librar
+ies/shapes\pgflibraryshapes.geometric.code.tex
 File: pgflibraryshapes.geometric.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 ))
-(C:\Miktex\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryshapes.misc.
-code.tex
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/fronte
+ndlayer/tikz/libraries\tikzlibraryshapes.misc.code.tex
 File: tikzlibraryshapes.misc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 
-(C:\Miktex\tex/generic/pgf/libraries/shapes\pgflibraryshapes.misc.code.tex
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/librar
+ies/shapes\pgflibraryshapes.misc.code.tex
 File: pgflibraryshapes.misc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 ))
-(C:\Miktex\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryshapes.symbo
-ls.code.tex
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/fronte
+ndlayer/tikz/libraries\tikzlibraryshapes.symbols.code.tex
 File: tikzlibraryshapes.symbols.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 
-(C:\Miktex\tex/generic/pgf/libraries/shapes\pgflibraryshapes.symbols.code.tex
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/librar
+ies/shapes\pgflibraryshapes.symbols.code.tex
 File: pgflibraryshapes.symbols.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 ))
-(C:\Miktex\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryshapes.arrow
-s.code.tex
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/fronte
+ndlayer/tikz/libraries\tikzlibraryshapes.arrows.code.tex
 File: tikzlibraryshapes.arrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 
-(C:\Miktex\tex/generic/pgf/libraries/shapes\pgflibraryshapes.arrows.code.tex
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/librar
+ies/shapes\pgflibraryshapes.arrows.code.tex
 File: pgflibraryshapes.arrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 ))
-(C:\Miktex\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryshapes.callo
-uts.code.tex
-(C:\Miktex\tex/generic/pgf/libraries/shapes\pgflibraryshapes.callouts.code.tex)
-)
-(C:\Miktex\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryshapes.multi
-part.code.tex
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/fronte
+ndlayer/tikz/libraries\tikzlibraryshapes.callouts.code.tex
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/librar
+ies/shapes\pgflibraryshapes.callouts.code.tex))
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/fronte
+ndlayer/tikz/libraries\tikzlibraryshapes.multipart.code.tex
 File: tikzlibraryshapes.multipart.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 
-(C:\Miktex\tex/generic/pgf/libraries/shapes\pgflibraryshapes.multipart.code.tex
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/librar
+ies/shapes\pgflibraryshapes.multipart.code.tex
 File: pgflibraryshapes.multipart.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfnodepartlowerbox=\box79
 \pgfnodeparttwobox=\box80
@@ -588,15 +709,16 @@ File: pgflibraryshapes.multipart.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfnodepartsixbox=\box97
 \pgfnodepartfivebox=\box98
 )))
-(C:\Miktex\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarypositioning.
-code.tex
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/fronte
+ndlayer/tikz/libraries\tikzlibrarypositioning.code.tex
 File: tikzlibrarypositioning.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(C:\Miktex\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryfit.code.tex
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/fronte
+ndlayer/tikz/libraries\tikzlibraryfit.code.tex
 File: tikzlibraryfit.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(C:\Miktex\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarycalc.code.te
-x
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/generic/pgf/fronte
+ndlayer/tikz/libraries\tikzlibrarycalc.code.tex
 File: tikzlibrarycalc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 ) (AICCII.aux
 
@@ -619,7 +741,9 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
 LaTeX Font Info:    ... okay on input line 16.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
 LaTeX Font Info:    ... okay on input line 16.
- (C:\Miktex\tex/context/base/mkii\supp-pdf.mkii
+
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\
+supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count314
 \scratchdimen=\dimen277
@@ -632,12 +756,15 @@ LaTeX Font Info:    ... okay on input line 16.
 \MPnumerator=\count318
 \makeMPintoPDFobject=\count319
 \everyMPtoPDFconversion=\toks40
-) (C:\Miktex\tex/latex/epstopdf-pkg\epstopdf-base.sty
+)
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg
+\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 
-(C:\Miktex\tex/latex/00miktex\epstopdf-sys.cfg
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\eps
+topdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package caption Info: Begin \AtBeginDocument code.
@@ -652,19 +779,21 @@ Package pdftex.def Info: epfl.jpeg  used on input line 22.
 (pdftex.def)             Requested size: 172.5pt x 74.71336pt.
  [1
 
-{C:/Users/Étude/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./epfl.jpeg>] 
-(AICCII.toc
+{C:/Users/Giovanni Ranieri/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./ep
+fl.jpeg>] (AICCII.toc
 LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
 
-(C:\Miktex\tex/latex/amsfonts\umsa.fd
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\ums
+a.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
- (C:\Miktex\tex/latex/amsfonts\umsb.fd
+
+(C:\Users\Giovanni Ranieri\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\ums
+b.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-[1] [2] [3] [4] [5] [6] [7]
-Overfull \hbox (4.7228pt too wide) in paragraph at lines 328--328
+) [1] [2] [3] [4] [5] [6] [7]
+Overfull \hbox (4.7228pt too wide) in paragraph at lines 329--329
  [][] []\OT1/cmr/m/n/10 Theorem 4 (Lower Bound for the Av-er-age Code-word Leng
 ths) [][]  
  []
@@ -682,7 +811,7 @@ Overfull \hbox (5.20117pt too wide) detected at line 123
 <equiv.png, id=51, 630.85687pt x 353.06906pt>
 File: equiv.png Graphic file (type png)
 <use equiv.png>
-Package pdftex.def Info: equiv.png  used on input line 149.
+Package pdftex.def Info: equiv.png  used on input line 148.
 (pdftex.def)             Requested size: 172.5pt x 96.54207pt.
  [12 <./equiv.png>] [13]
 <visualization.png, id=62, 718.18312pt x 463.7325pt>
@@ -1087,28 +1216,40 @@ LaTeX Warning: There were multiply-defined labels.
  ) 
 Here is how much of TeX's memory you used:
  21097 strings out of 478864
- 429923 string characters out of 2865142
- 829516 words of memory out of 3000000
+ 443799 string characters out of 2843410
+ 829556 words of memory out of 3000000
  38621 multiletter control sequences out of 15000+600000
  415917 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  101i,12n,108p,954b,1290s stack positions out of 5000i,500n,10000p,200000b,80000s
- <C:\Users\Étude\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcr
-m1000.pk><C:/Miktex/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Miktex/fonts/
-type1/public/amsfonts/cm/cmbx12.pfb><C:/Miktex/fonts/type1/public/amsfonts/cm/c
-mex10.pfb><C:/Miktex/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Miktex/fonts
-/type1/public/amsfonts/cm/cmmi12.pfb><C:/Miktex/fonts/type1/public/amsfonts/cm/
-cmmi5.pfb><C:/Miktex/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Miktex/fonts/
-type1/public/amsfonts/cm/cmr10.pfb><C:/Miktex/fonts/type1/public/amsfonts/cm/cm
-r17.pfb><C:/Miktex/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Miktex/fonts/typ
-e1/public/amsfonts/cm/cmr7.pfb><C:/Miktex/fonts/type1/public/amsfonts/cm/cmr8.p
-fb><C:/Miktex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Miktex/fonts/type1/
-public/amsfonts/cm/cmsy5.pfb><C:/Miktex/fonts/type1/public/amsfonts/cm/cmsy7.pf
-b><C:/Miktex/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Miktex/fonts/type1/pu
-blic/amsfonts/cm/cmti10.pfb><C:/Miktex/fonts/type1/public/amsfonts/cm/cmti7.pfb
-><C:/Miktex/fonts/type1/public/amsfonts/cm/cmtt9.pfb><C:/Miktex/fonts/type1/pub
-lic/amsfonts/symbols/msbm10.pfb>
-Output written on AICCII.pdf (103 pages, 1903462 bytes).
+ <C:\Users\Giovanni Ranieri\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/
+dpi600\tcrm1000.pk><C:/Users/Giovanni Ranieri/AppData/Local/Programs/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Giovanni Ranieri/AppData/Local
+/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Giovanni R
+anieri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb>
+<C:/Users/Giovanni Ranieri/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmmi10.pfb><C:/Users/Giovanni Ranieri/AppData/Local/Programs/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Giovanni Ranieri/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/Giovanni R
+anieri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><
+C:/Users/Giovanni Ranieri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmr10.pfb><C:/Users/Giovanni Ranieri/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Giovanni Ranieri/AppData/Local/P
+rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/Giovanni Ranie
+ri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Us
+ers/Giovanni Ranieri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmr8.pfb><C:/Users/Giovanni Ranieri/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Giovanni Ranieri/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Users/Giovanni Ranieri/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users
+/Giovanni Ranieri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmsy8.pfb><C:/Users/Giovanni Ranieri/AppData/Local/Programs/MiKTeX/fonts/type1/
+public/amsfonts/cm/cmti10.pfb><C:/Users/Giovanni Ranieri/AppData/Local/Programs
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmti7.pfb><C:/Users/Giovanni Ranieri/App
+Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt9.pfb><C:/Users/G
+iovanni Ranieri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbo
+ls/msbm10.pfb>
+Output written on AICCII.pdf (103 pages, 1903416 bytes).
 PDF statistics:
  487 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

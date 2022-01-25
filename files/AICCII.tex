@@ -138,7 +138,6 @@ P \equiv Q
 \end{equation}
 We can see equivalences in the truth tables too, by checking if the columns in a truth table giving their truth tables agree.
 
-\subsubsection{Common Mistake}
 \tcbset{colback=red!5!white,colframe=red!75!black}
 \begin{tcolorbox}[width=12.1cm, leftrule=3mm]
 $ P \rightarrow Q $ is $ \textbf{NOT} $ equivalent to $ Q \rightarrow P $. But $ P \rightarrow Q \equiv \neg Q \rightarrow \neg P $
@@ -159,6 +158,7 @@ Let $ P $ and $ Q $ 2 propositions. We can resume the Morgan's Law as
 \end{align}
 
 \subsubsection{Proof}
+\tcbset{colback=gray!5!white,colframe=gray!75!black}
 \begin{tcolorbox}[width=12.1cm]
 Let $ A = \neg(P \vee Q) $ and $ X \in A $. By definition, $ X \notin (P \vee Q) $. So $ X \notin P $ and $ X \notin Q \Rightarrow X \in \neg P $ and $ X \in \neg Q \Rightarrow X \in \neg P \wedge \neg Q $. We use the same things for the second equivalence.
 \end{tcolorbox}
@@ -171,7 +171,7 @@ $ (P \wedge \neg Q) \vee (P \wedge R) \vee (Q \wedge T) $
 
 \subsubsection{Conjunctive Normal Form (CNF)} It's a conjunction of compound expressions where each compound expression is a disjunction of a set of propositional variables of their negation.
 \begin{center}
-$ (P \vee \neg q) \wedge (P \vee R) \wedge (Q \vee T) $
+$ (P \vee \neg Q) \wedge (P \vee R) \wedge (Q \vee T) $
 \end{center}
 
 \begin{tcolorbox}[sharp corners, colback=green!30, colframe=green!80!blue, title=Theorem Of CNF]
@@ -348,9 +348,9 @@ Sets that have no intersection $ (A \cap B = \emptyset) $ are called \textbf{dis
 \{x \in \mathcal{U} | x \notin A\}
 \end{equation}
 
-\subsubsection{Symmetric Difference} Let $ A $ and $ B $, 2 sets. The symmetric difference of $ A $ and $ B $, denoted by $ A \oplus B $, is the set
+\subsubsection{Symmetric Difference} Let $ A $ and $ B $, 2 sets. The symmetric difference of $ A $ and $ B $, denoted by $ A \oplus B $, is the set:
 \begin{equation}
-(A - B) \wedge (B - A)
+(A - B) \vee (B - A)
 \end{equation}
 
 \subsubsection{Inclusion-Exclusion Principle} The inclusion-exclusion principle is a principle that represent a counting technique which generalizes the familiar method of obtaining the number of elements in the union of two finite sets. 
