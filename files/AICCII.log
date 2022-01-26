@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.9.15)  25 JAN 2022 14:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.9.15)  26 JAN 2022 11:04
 entering extended mode
 **./AICCII.tex
 (AICCII.tex
@@ -793,7 +793,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
 b.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1] [2] [3] [4] [5] [6] [7]
-Overfull \hbox (4.7228pt too wide) in paragraph at lines 329--329
+Overfull \hbox (4.7228pt too wide) in paragraph at lines 328--328
  [][] []\OT1/cmr/m/n/10 Theorem 4 (Lower Bound for the Av-er-age Code-word Leng
 ths) [][]  
  []
@@ -1216,7 +1216,7 @@ LaTeX Warning: There were multiply-defined labels.
  ) 
 Here is how much of TeX's memory you used:
  21097 strings out of 478864
- 443799 string characters out of 2843410
+ 443943 string characters out of 2843410
  829556 words of memory out of 3000000
  38621 multiletter control sequences out of 15000+600000
  415917 words of font info for 74 fonts, out of 8000000 for 9000
@@ -1249,7 +1249,7 @@ public/amsfonts/cm/cmti10.pfb><C:/Users/Giovanni Ranieri/AppData/Local/Programs
 Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt9.pfb><C:/Users/G
 iovanni Ranieri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbo
 ls/msbm10.pfb>
-Output written on AICCII.pdf (103 pages, 1903416 bytes).
+Output written on AICCII.pdf (103 pages, 1903392 bytes).
 PDF statistics:
  487 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
